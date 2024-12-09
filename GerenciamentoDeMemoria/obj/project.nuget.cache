@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "eLc8Ac9KOg4=",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\GerenciamentoDeMemoria\\GerenciamentoDeMemoria\\GerenciamentoDeMemoria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://187.12.84.147/Internos/NugetServer/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
